@@ -1,0 +1,28 @@
+<?xml ?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/happy-new-year/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/joshamuth/
+        </loc>
+    </url>
+</urlset>
